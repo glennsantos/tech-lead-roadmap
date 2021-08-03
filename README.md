@@ -11,3 +11,6 @@ If you prefer something actionable, [jump to the checklist version here](https:/
 
 We also have a mentorship program where we help developers become leaders. [Come join us](https://tally.so/r/3leK5w)!
 
+More about me:
+[LinkedIn](https://www.linkedin.com/in/glennsantos/)
+[glennsantos.com](https://glennsantos.com)

@@ -5,7 +5,7 @@ This is my initial version of this roadmap and is a work in progress. The conten
 Make sure you go through the [Senior Developer Roadmap](https://github.com/glennsantos/senior-developer-roadmap/) first!
 
 _TIP: click on the image to see the full-sized version_
-[![](/TechLeadRoadmap.png "Tech Lead Roadmap")](https://raw.githubusercontent.com/glennsantos/senior-developer-roadmap/main/TechLeadRoadmap.png)
+[![](/TechLeadRoadmap.png "Tech Lead Roadmap")](https://raw.githubusercontent.com/glennsantos/tech-lead-roadmap/master/TechLeadRoadmap.png)
 
 If you prefer something actionable, [jump to the checklist version here](https://docs.google.com/document/d/1Spv2mdzB5eEvHuCr5CY2XZZ2T-PxahMMa9RC6VVb4BA/edit). _TIP: Go to File > Make a Copy so you can have your own checkable copy of the checklist._
 
